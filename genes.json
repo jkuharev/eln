@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "symbol": "A1BG",
+      "name": "alpha-1-B glycoprotein",
+      "status": "Approved",
+      "alias_symbol": []
+    },
+    {
+      "symbol": "A1BG-AS1",
+      "name": "A1BG antisense RNA 1",
+      "status": "Approved",
+      "alias_symbol": [
+        "FLJ23569"
+      ]
+    }
+  ]
+}
